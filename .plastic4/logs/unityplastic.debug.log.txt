@@ -1,0 +1,276 @@
+2023-01-27 14:43:50,175 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:43:50,189 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:43:50,194 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-27 14:49:52,527 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:49:52,538 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:49:52,541 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-27 14:55:21,276 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:55:21,286 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:55:21,289 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-27 14:59:13,093 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:59:13,105 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 14:59:13,108 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-27 15:05:16,314 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 15:05:16,326 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-27 15:05:16,329 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:06:21,229 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:06:21,242 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:06:21,246 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:09:40,719 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:09:40,751 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:09:40,754 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:12:08,932 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:12:08,944 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:12:08,948 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:18:26,779 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:18:26,790 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:18:26,793 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:22:51,745 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:22:51,759 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:22:51,762 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:23:01,425 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:23:01,437 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:23:01,440 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:23:24,082 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:23:24,094 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:23:24,097 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:24:15,450 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:24:15,462 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:24:15,465 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:26:07,239 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:26:07,251 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:26:07,254 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:28:07,535 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:28:07,545 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:28:07,548 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:36:36,042 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:36:36,053 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:36:36,056 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:37:23,486 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:37:23,498 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:37:23,501 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:43:45,864 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:43:45,877 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:43:45,880 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:45:18,220 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:45:18,232 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:45:18,235 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:48:37,282 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:48:37,293 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:48:37,296 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:49:20,804 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:49:20,816 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:49:20,819 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:49:32,107 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:49:32,120 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:49:32,123 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:50:20,688 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:50:20,699 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:50:20,702 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:51:54,755 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:51:54,766 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:51:54,769 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:52:51,211 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:52:51,223 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:52:51,226 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:53:02,802 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:53:02,813 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:53:02,817 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:54:23,090 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:54:23,101 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:54:23,104 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:54:45,806 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:54:45,817 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:54:45,820 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:56:42,986 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:56:42,997 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:56:43,000 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 12:57:30,498 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:57:30,510 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 12:57:30,513 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:02:22,831 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:02:22,843 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:02:22,846 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:03:55,462 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:03:55,474 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:03:55,477 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:17:31,380 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:17:31,401 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:17:31,407 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:18:00,757 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:18:00,769 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:18:00,773 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:18:20,526 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:18:20,537 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:18:20,540 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:34:58,088 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:34:58,101 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:34:58,104 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:39:39,871 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:39:39,884 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:39:39,887 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:41:24,197 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:41:24,208 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:41:24,211 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:43:16,245 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:43:16,256 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:43:16,259 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-01-31 13:43:36,266 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:43:36,277 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-01-31 13:43:36,280 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 13:46:42,320 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:46:42,333 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:46:42,336 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 13:47:55,871 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:47:55,884 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:47:55,887 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 13:56:49,018 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:56:49,031 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:56:49,035 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 13:57:54,072 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:57:54,085 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:57:54,088 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 13:58:07,245 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:58:07,259 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 13:58:07,262 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:49:47,098 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:49:47,110 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:49:47,113 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:50:37,303 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:50:37,315 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:50:37,318 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:58:23,887 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:58:23,899 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:58:23,902 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:58:28,836 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:58:28,847 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:58:28,850 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:59:01,521 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:59:01,533 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:59:01,536 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 15:59:18,221 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:59:18,233 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 15:59:18,237 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:05:45,662 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:05:45,673 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:05:45,676 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:05:57,488 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:05:57,499 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:05:57,502 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:17:04,377 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:17:04,389 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:17:04,392 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:17:59,525 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:17:59,536 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:17:59,540 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:18:05,267 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:18:05,278 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:18:05,280 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-06 16:18:35,007 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:18:35,019 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-06 16:18:35,021 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:16:59,052 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:16:59,065 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:16:59,067 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:18:03,269 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:18:03,281 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:18:03,284 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:27:50,181 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:27:50,192 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:27:50,195 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:28:08,301 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:28:08,313 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:28:08,317 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:28:12,478 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:28:12,490 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:28:12,492 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:29:37,420 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:29:37,433 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:29:37,436 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 14:29:41,538 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:29:41,551 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 14:29:41,554 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:14:59,080 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:14:59,092 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:14:59,095 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:15:04,200 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:15:04,213 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:15:04,216 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:33:57,319 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:33:57,330 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:33:57,333 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:34:10,688 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:34:10,700 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:34:10,703 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:35:09,903 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:35:09,914 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:35:09,918 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:38:36,716 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:38:36,727 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:38:36,730 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:39:36,334 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:39:36,349 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:39:36,353 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:43:35,082 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:43:35,094 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:43:35,097 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:43:59,310 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:43:59,321 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:43:59,324 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:50:19,206 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:50:19,217 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:50:19,220 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:55:11,125 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:55:11,137 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:55:11,140 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:56:22,319 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:56:22,331 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:56:22,334 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:57:09,983 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:57:09,995 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:57:09,998 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 15:59:36,420 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:59:36,432 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 15:59:36,435 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 16:06:15,656 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:06:15,668 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:06:15,671 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 16:07:58,517 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:07:58,531 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:07:58,535 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 16:19:40,518 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:19:40,529 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 16:19:40,532 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:10:35,156 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:10:35,168 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:10:35,171 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:20:25,947 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:20:25,958 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:20:25,962 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:25:11,520 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:25:11,532 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:25:11,535 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:26:06,442 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:26:06,453 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:26:06,456 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:26:10,575 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:26:10,587 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:26:10,590 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:27:21,638 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:27:21,650 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:27:21,653 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:27:43,789 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:27:43,802 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:27:43,805 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:33:53,668 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:33:53,681 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:33:53,685 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:36:17,724 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:36:17,736 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:36:17,738 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 18:48:34,530 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:48:34,541 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 18:48:34,545 karliehuynh DEBUG EventTracking - Event tracking disabled.
+2023-02-07 20:14:08,533 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 20:14:08,544 karliehuynh DEBUG RestApi - No user defined URIs in '/Users/karliehuynh/.plastic4/webapi.conf'. Will use default URIs.
+2023-02-07 20:14:08,547 karliehuynh DEBUG EventTracking - Event tracking disabled.

@@ -1,0 +1,2 @@
+Disconnected at : 00:41:34 - GalaxyTimeout Ping: 9223372000000000000 friend/invite
+Disconnected at : 00:48:22 - GalaxyTimeout Ping: 9223372000000000000 friend/invite

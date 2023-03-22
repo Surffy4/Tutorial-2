@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2010.57.08%20PM.png" added="2021-12-11T03:59:21.737664Z" modified="2021-12-11T03:59:21.737677Z" visited="2021-12-11T03:59:21.737668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T03:59:21.737674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2010.55.55%20PM.png" added="2021-12-11T03:59:59.409311Z" modified="2021-12-11T03:59:59.409315Z" visited="2021-12-11T03:59:59.409312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T03:59:59.409313Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2010.55.40%20PM.png" added="2021-12-11T04:01:33.398736Z" modified="2021-12-11T04:01:33.398741Z" visited="2021-12-11T04:01:33.398737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:01:33.398739Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2010.55.06%20PM.png" added="2021-12-11T04:02:20.418937Z" modified="2021-12-11T04:02:20.418942Z" visited="2021-12-11T04:02:20.418938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:02:20.418940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Downloads/Baylee.jpg" added="2021-12-11T04:09:40.048988Z" modified="2021-12-11T04:09:40.048993Z" visited="2021-12-11T04:09:40.048989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp %u&apos;" modified="2021-12-11T04:09:40.048991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Downloads/baylee.png" added="2021-12-11T04:10:09.754512Z" modified="2021-12-11T04:31:38.226828Z" visited="2021-12-11T04:10:09.754513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:31:38.226826Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/baylee.xcf" added="2021-12-11T04:12:25.164045Z" modified="2021-12-11T04:32:17.540409Z" visited="2021-12-11T04:12:25.164046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:32:17.540407Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.21.53%20PM.png" added="2021-12-11T04:22:10.466836Z" modified="2021-12-11T04:22:10.466841Z" visited="2021-12-11T04:22:10.466837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:22:10.466839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.26.07%20PM.png" added="2021-12-11T04:26:19.808560Z" modified="2021-12-11T04:26:19.808564Z" visited="2021-12-11T04:26:19.808561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:26:19.808563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.29.54%20PM.png" added="2021-12-11T04:30:15.350335Z" modified="2021-12-11T04:30:15.350339Z" visited="2021-12-11T04:30:15.350336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:30:15.350338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.39.37%20PM.png" added="2021-12-11T04:42:16.580056Z" modified="2021-12-11T04:42:16.580061Z" visited="2021-12-11T04:42:16.580058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:42:16.580059Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.39.52%20PM.png" added="2021-12-11T04:43:11.740166Z" modified="2021-12-11T04:43:11.740170Z" visited="2021-12-11T04:43:11.740167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:43:11.740168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.40.06%20PM.png" added="2021-12-11T04:43:50.790316Z" modified="2021-12-11T04:43:50.790320Z" visited="2021-12-11T04:43:50.790316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:43:50.790318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.40.19%20PM.png" added="2021-12-11T04:45:11.819712Z" modified="2021-12-11T04:46:06.294060Z" visited="2021-12-11T04:45:11.819712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:46:06.294058Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.40.38%20PM.png" added="2021-12-11T04:46:19.460440Z" modified="2021-12-11T04:46:19.460445Z" visited="2021-12-11T04:46:19.460441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:46:19.460443Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.47.16%20PM.png" added="2021-12-11T04:47:37.070006Z" modified="2021-12-11T04:47:37.070011Z" visited="2021-12-11T04:47:37.070007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:47:37.070009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-10%20at%2011.50.47%20PM.png" added="2021-12-11T04:51:05.952755Z" modified="2021-12-11T04:51:05.952760Z" visited="2021-12-11T04:51:05.952756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:51:05.952758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/baylee%20zoom.png" added="2021-12-11T04:55:37.976783Z" modified="2021-12-11T04:55:37.976787Z" visited="2021-12-11T04:55:37.976784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp %u&apos;" modified="2021-12-11T04:55:37.976785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Downloads/baylee%20zoom.png" added="2021-12-11T04:55:46.088744Z" modified="2021-12-11T04:55:49.304398Z" visited="2021-12-11T04:55:46.088745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T04:55:49.304396Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/baylee%20zoom.xcf" added="2021-12-11T04:55:57.271959Z" modified="2021-12-11T05:10:25.930519Z" visited="2021-12-11T04:55:57.271960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T05:10:25.930517Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/Screen%20Shot%202021-12-11%20at%2012.09.00%20AM.png" added="2021-12-11T05:10:51.954143Z" modified="2021-12-11T05:10:51.954147Z" visited="2021-12-11T05:10:51.954144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T05:10:51.954146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/karliehuynh/Desktop/bayleetriangle.png" added="2021-12-11T05:11:25.640700Z" modified="2021-12-11T05:11:29.758970Z" visited="2021-12-11T05:11:25.640701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-11T05:11:29.758968Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
